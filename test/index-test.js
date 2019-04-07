@@ -44,3 +44,6 @@ describe('index', () => {
     })
   })
 })
+
+console.error('first');
+
